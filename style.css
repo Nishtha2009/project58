@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    background: linear-gradient(#a832a2 0%, #eef525 100%);
+}
+
+#pic {
+    width: 150px;
+    height: 200px;
+
+}
+.menu {
+    list-style: none;
+}
+.name{
+    font-family: 'Caveat', cursive;
+}
